@@ -1,0 +1,55 @@
+@options
+@argfile
+--class-path
+'/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/classes:/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/test-classes:/home/mbadr/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/mbadr/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/src/test/java:/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Getting Started with Maven 1.0.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Getting Started with Maven 1.0.0-SNAPSHOT Test API'
+'/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/src/test/java/HelloWorldTest.java'
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/src/test/java/HelloWorldTest.java = 1572371801000
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/src/test/java = 1572371801000
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/generated-test-sources/test-annotations = 1633095191625
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/HelloWorldTest.html = 1633095210756
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/package-search-index.zip = 1633095210828
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/allclasses.html = 1633095210856
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/member-search-index.zip = 1633095210832
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/deprecated-list.html = 1633095210856
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/element-list = 1633095210760
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/help-doc.html = 1633095210868
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/index-all.html = 1633095210832
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/stylesheet.css = 1633095210872
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/allpackages-index.html = 1633095210844
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/script.js = 1633095210876
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/overview-tree.html = 1633095210808
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/type-search-index.js = 1633095210828
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/index.html = 1633095210860
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/package-summary.html = 1633095210772
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/package-tree.html = 1633095210784
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/type-search-index.zip = 1633095210832
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/search.js = 1633095210876
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/package-use.html = 1633095210804
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/package-search-index.js = 1633095210828
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/constant-values.html = 1633095210788
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/allclasses-index.html = 1633095210840
+/home/mbadr/Desktop/myDesktop/home-made-iti/Introducing Maven/introducing-maven-2e-master/Ch08/starter/gswm/target/site/testapidocs/member-search-index.js = 1633095210832

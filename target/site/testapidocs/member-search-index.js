@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"HelloWorldTest","l":"cleanUp()"},{"p":"<Unnamed>","c":"HelloWorldTest","l":"HelloWorldTest()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"HelloWorldTest","l":"setUp()"},{"p":"<Unnamed>","c":"HelloWorldTest","l":"testSayHello()"}]
