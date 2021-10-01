@@ -14,9 +14,9 @@
 	</description>
 
 	<scm>
-		<connection>scm:git:https://github.com/bava/intro-maven.
+		<connection>scm:git:https://github.com/MahmoudBadrBakry/intro-maven.
 	git</connection>
-		<developerConnection>scm:git:https://github.com/bava/
+		<developerConnection>scm:git:https://github.com/MahmoudBadrBakry/
 	intro-maven.git</developerConnection>
 		<url>https://github.com/bava/intro-maven</url>
 	</scm>
